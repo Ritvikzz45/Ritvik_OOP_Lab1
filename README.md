@@ -2,6 +2,7 @@
  IT Support Administrator and are charged with the task of creating credentials for new hires
 
 Program for one who is working in a Service Provider company as IT Support Administrator. It's responsibility is to automate the manual login credentials generation for new employees. To achieve this,vapplication should perform the following tasks:
+
 This application should do the following:
 a) Determine the department of the new employee (Technical, Admin, Human Resource, Legal)
 b) Generate an email with the following syntax firstNamelastName@department.company.com
